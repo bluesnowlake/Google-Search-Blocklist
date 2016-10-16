@@ -9,7 +9,4 @@ with open('./domains.js', 'w') as f:
     f.write(',\n'.join(sorted(list(urls))))
     f.write('];\n')
 
-
-    
 # blocklist.DOMAINS = [];
-
