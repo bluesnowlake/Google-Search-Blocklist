@@ -1,7 +1,9 @@
 # Google Search Blocklist (A Chrome Extension)
 ## 简介
 本项目是一个 Chrome 扩展。
+
 本项目是为了让使用 Chrome 的用户更方便地利用 [useless-websites](https://github.com/Feiox/useless-websites)。
+
 本项目基于 Google 为 Chrome 提供的 [Personal Blocklist](https://chrome.google.com/webstore/detail/nolijncfnkgaikbjbdaogikpmpbdcdef) ，做了如下修改：
 - 可以从本地文件加载屏蔽列表
 - 升级到最新的 jQuery，修复了旧版产生的 CSP 问题
