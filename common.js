@@ -98,7 +98,6 @@ blocklist.common.startBackgroundListeners = function() {
             }
             //***************************************
             blocklistPatterns = blocklistPatterns.sort().concat(blocklist.DOMAINS);
-            localStorage['a'] = blocklistPatterns;
             //***************************************
             var resultPatterns = [];
             if (request.num != undefined && request.num > 0) {
