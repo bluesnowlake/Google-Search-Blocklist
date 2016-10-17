@@ -4657,7 +4657,6 @@ blocklist.DOMAINS = [
 'macommunemasante.org',
 'madouer.com',
 'maespec.com',
-'mafengwo.cn',
 'magess.com',
 'mahatoursperu.com',
 'mahig22.cn',
