@@ -4851,7 +4851,6 @@ blocklist.DOMAINS = [
 'mxaf.net',
 'mxhdl.com',
 'my-epower.com',
-'my.oschina.net',
 'my035.xyz',
 'myaoo.net',
 'mycmsy.com',

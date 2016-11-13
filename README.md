@@ -2,7 +2,7 @@
 ## 简介
 本项目是一个 Chrome 扩展。
 
-本项目是为了让使用 Chrome 的用户更方便地利用 [useless-websites](https://github.com/Feiox/useless-websites)。
+本项目是为了让使用 [Personal Blocklist](https://chrome.google.com/webstore/detail/nolijncfnkgaikbjbdaogikpmpbdcdef) 的用户更方便地利用 [useless-websites](https://github.com/Feiox/useless-websites)。
 
 本项目基于 Google 为 Chrome 提供的 [Personal Blocklist](https://chrome.google.com/webstore/detail/nolijncfnkgaikbjbdaogikpmpbdcdef) ，做了如下修改：
 - 可以从本地文件加载屏蔽列表
